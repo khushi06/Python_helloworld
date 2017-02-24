@@ -1,1 +1,1 @@
-print "Hello,Khushi!"
+print "Hello,Khushi"
